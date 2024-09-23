@@ -22,6 +22,5 @@ for i in Names:
         print(Amo)
         print(type(Amo))
 j+=1
-else:
-        print("Not available")
+
 
